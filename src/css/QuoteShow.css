@@ -1,0 +1,14 @@
+.quote-show{
+    width: 50%;
+    border-left: 7px solid;
+    border-color: var(--light-yellow);
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.quote-show .quote-text{
+    font-size: 2rem;
+}

@@ -1,0 +1,25 @@
+.author-btn{
+    margin-top: 100px;
+    padding: 30px 20px;
+    width: 70%;
+    margin: 100px auto 0 auto;
+    cursor: pointer;
+}
+
+.author-btn:hover{
+    background-color: rgb(42, 42, 42);
+}
+
+.author-btn:hover .author-name{
+    color: white;
+}
+
+.author-btn .author-name{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.author-btn .author-job{
+    font-size: 18px;
+    color: rgb(107, 107, 107);
+}
